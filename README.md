@@ -5,7 +5,7 @@ Im Dan from New Zealand (Originally from South Africa), and I do web development
 
 HTML / CSS / Javascript / React / 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=onenterframe01&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=onenterframe01&show_icons=true&theme=transparent"/>
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenterframe01&layout=compact/">
 
