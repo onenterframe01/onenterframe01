@@ -1,15 +1,13 @@
-# Hi There, Im Daniel! 👋
-Im Dan from New Zealand (Originally from South Africa), and I do web development. I really enjoy learning new languages and frameworks like React and Bootstrap, and also like to work in Wordpress
+# Hi There, Im Dan from New Zealand (Originally from South Africa)! 👋
 
-## Skills and Expertise
-
-HTML / CSS / Javascript / React / 
-
+I'm a software engineer who is passionate about the online tech-space. Some technologies I enjoy working with are ReactJS, NodeJS, express and Javascript.  I am continually learning new technologies and languages that I can implement in my day-to-day projects
 
 <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=onenterframe01&show_icons=true&theme=light"/>
 <img align="left" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenterframe&layout=compact)](https://github.com/onenterframe/github-readme-stats"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+# Languages and Tools
+<br/>
  <img alt="CSS" align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="NodeJS" align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
