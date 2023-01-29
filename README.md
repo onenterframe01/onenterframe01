@@ -6,7 +6,7 @@ I'm a software engineer who is passionate about the online tech-space. Some tech
 <img align="left" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenterframe&layout=compact)](https://github.com/onenterframe/github-readme-stats"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-# Languages and Tools
+## Languages and Tools
 
  <img alt="CSS" align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Javascript" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
