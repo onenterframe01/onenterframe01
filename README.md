@@ -3,7 +3,6 @@
 I'm a software engineer who is passionate about the online tech-space. Some technologies I enjoy working with are ReactJS, NodeJS, express and Javascript.  I am continually learning new technologies and languages that I can implement in my day-to-day projects
 
 <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=onenterframe01&show_icons=true&theme=light"/>
-<img align="left" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onenterframe&layout=compact)](https://github.com/onenterframe/github-readme-stats"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Languages and Tools
